@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b9532c-07c4-4b05-99e3-4494a46e44d9" name="Changes" comment="app-order added">
-      <change afterPath="$PROJECT_DIR$/driver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrderFormTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a0b9532c-07c4-4b05-99e3-4494a46e44d9" name="Changes" comment="Tests added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663468363076</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tests added">
+      <created>1663521292922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663521292922</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +237,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Initial commit with appveyor" />
     <MESSAGE value="app-order added" />
-    <option name="LAST_COMMIT_MESSAGE" value="app-order added" />
+    <MESSAGE value="Tests added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tests added" />
   </component>
 </project>
